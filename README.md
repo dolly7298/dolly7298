@@ -1,10 +1,6 @@
 ### Chipi chipi  ^^
 
 
-
-
-Here are some ideas to get you started:
-
 <p>- &#10083 I’m currently working on my portfolio
 - &#10083 I’m currently learning English language and Python
 - &#10083 I’m looking to collaborate with game projects
