@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning English language and Python
-- 👯 I’m looking to collaborate with game projects
-- 🤔 I’m looking for help with programming and math
-- 📫 How to reach me: telegramm: staywithmek
-- 😄 Pronouns: Kate
-- ⚡ Fun fact: i am studying at IT-collage Hexlet
+- &#10083 I’m currently working on my portfolio
+- &#10083 I’m currently learning English language and Python
+- &#10083 I’m looking to collaborate with game projects
+- &#10083 I’m looking for help with programming and math
+- &#10083 How to reach me: telegramm: staywithmek
+- &#10083 Pronouns: Kate
+- &#10083 Fun fact: i am studying at IT-collage Hexlet
   
